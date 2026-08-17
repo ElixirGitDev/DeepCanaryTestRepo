@@ -1,2 +1,2 @@
 # DeepCanaryTestRepo
-Repo for Git team deep canary
+Repo for Git team deep canary runs
